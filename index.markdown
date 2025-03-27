@@ -4,3 +4,6 @@
 title: Home
 layout: home
 ---
+<p>
+This website is largely incomplete, and is a work in progress. See the post listed below for a greater understanding of what is intended upon completion.
+</p>
